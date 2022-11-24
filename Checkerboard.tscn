@@ -10,7 +10,7 @@ scale = Vector2( 0.310764, 0.310764 )
 texture = ExtResource( 1 )
 
 [node name="BoardSquare" parent="." instance=ExtResource( 2 )]
-position = Vector2( -512, 512 )
+position = Vector2( -511.642, 511.642 )
 
 [node name="Piece" parent="." instance=ExtResource( 3 )]
 position = Vector2( -384, 512 )
